@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy ingeniera en Tecnologías de la Información.<br><br>⚡ Me apasiona la ciberseguridad porque me permite hacer conciencia sobre el valor crucial de la información y la importancia de mantenerla protegida.<br><br>🔭 Mi objetivo es convertirme en una profesional que contribuya activamente a preservar la integridad, confidencialidad y disponibilidad de los datos en un mundo cada vez más digital.<br><br>👩‍💻 Estoy comprometida con la protección de la información contra las múltiples amenazas existentes, y me motiva seguir aprendiendo y desarrollando nuevas habilidades para enfrentar estos desafíos.<br><br>📚 Como analista de ciberseguridad, aspiro a crear soluciones que impacten positivamente tanto en las organizaciones como en las personas que dependen de ellas.<br><br>🚀 Soy una persona ética y comprometida, que busca asegurar la seguridad de los sistemas de información.<br>
+Soy ingeniera en Tecnologías de la Información.<br><br>⚡ Me apasiona la ciberseguridad porque me permite hacer conciencia sobre el valor crucial de la información y la importancia de mantenerla protegida.<br><br>🔭 Mi objetivo es convertirme en una profesional que contribuya activamente a preservar la integridad, confidencialidad y disponibilidad de los datos en un mundo cada vez más digital.<br><br>👩‍💻 Estoy comprometida con la protección de la información contra las múltiples amenazas existentes, y me motiva seguir aprendiendo y desarrollando nuevas habilidades para enfrentar estos desafíos.<br><br>📚 Como analista de ciberseguridad, aspiro a crear soluciones que impacten positivamente tanto en las organizaciones como en las personas que dependen de ellas.<br><br>📚 Tengo conocimientos en desarrollo web usando HTML, CSS, JavaScript, PHP, junto con gestores de bases de datos como son MySQL y PostgreSQL.<br><br>🚀 Soy una persona ética y comprometida, que busca asegurar la seguridad de los sistemas de informació, dispuesta a aprender y afrontar nuevos retos.<br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Soy ingeniera en Tecnologías de la Información.<br><br>⚡ Me apasiona la cibe
 ![](https://github-readme-stats.vercel.app/api?username=elizabethmartinezb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elizabethmartinezb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethmartinezb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elizabethmartinezb&icon=0&color=0)](https://visitcount.itsvg.in)
